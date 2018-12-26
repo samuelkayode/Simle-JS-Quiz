@@ -1,2 +1,2 @@
-# Simle-JS-Quiz
+# Simple-JS-Quiz
 Learning Front end dev
